@@ -1,0 +1,75 @@
+*{
+box-sizing:border-box;/*не учитывает отступы и рамки в ширине*/
+}
+
+.box{
+width:100%;/* ширина*/
+height: 9%; /* высота*/
+background-color: #000;/* серый цвет*/
+color: #fff;
+opacity: 10;/*Позиционирование бокса на странице */
+/*position: fixed;/* Позиция элемента на странице:
+position:absolute
+*/
+position: fixed;
+left: 0%;/*глабальный отступ*/
+top:0;
+margin-left: 0px;/*отступ*/
+text-align: center;
+line-height: 10px;
+vertical-align: super;
+/*text-align: center;выравнивание текста по центу*/
+
+
+
+/*Отступы (podding):
+1.padding:верх_право_низ_лево;
+2.padding-top- отступ сверху
+padding-left-отступ слева
+padding-right-отступ справа
+padding-bottom- нижний отступ
+
+Рамка (border):
+1.border 5px solid #000;
+2.border-width -толщина
+3.border-color -цвет
+
+Отступ снизу (margin-отступ снизу)
+1.margin-top- отступ сверху
+margin-left-отступ слева
+margin-right-отступ справа
+margin-bottom- нижний отступ
+margin:верх_право_низ_лево
+*/
+
+}
+
+.text{  
+background-color: red;
+
+ }
+
+p{
+	margin-top: 50px;
+	padding:  30px 30px 30px;
+	text-align: justify;
+	
+
+}
+
+a{
+color: #fff;
+display: inline-block;/*ссылка делается строчно-блочной и тогда можно назначить высоту и ширины отдельной ссылки*/
+width:11%;	
+height:4,5%;
+text-align: right;
+/*text-align: justify;*/
+margin-top: 15px;
+vertical-align: super;
+/*background-color: red;*/
+}
+
+.la{
+width:50%;
+text-align: justify;
+}
