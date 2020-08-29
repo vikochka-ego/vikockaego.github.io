@@ -10,3 +10,5 @@
 [Урок 6](https://vikockaego.github.io/Урок%20№6.%20Позиционирование%20CSS/GRZKeyE.htm/ "Позиционирование CSS")-  Позиционирование CSS
 
 [Урок 7](https://vikockaego.github.io/Lesson12/ " Сайт")- Верстка первого макета
+
+[Урок 8](https://vikockaego.github.io/project5/index.htm " Ускорение верстки в разы")- Ускорение верстки в разы
