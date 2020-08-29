@@ -1,0 +1,86 @@
+*{box-sizing: border-box;
+}
+body{
+	font-family:Tahoma; /* шрифт */
+	line-height:1.5; /* межстрочный интервал */
+	color: #333333;/* цвет */
+	text-align: center;}
+.header{
+	font-size: 24px;
+	margin-top:60px;
+}
+.header span{
+	display: block;
+}
+.header strong{
+	display: block;
+	margin-top:20px;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.main{
+margin-top:80px;
+margin-left:40px;
+margin-right:40px;
+}
+.vidio,.form{
+display:inline-block;
+vertical-align: top;
+
+}
+.form-hefder{
+	margin-bottom: 30px;
+	font-size: 20px;
+	font-weight: 900;
+}
+.form{
+	margin-left:30px;
+	text-align: center;
+	border: 5px solid #2727d9;
+	padding: 20px;/* отступы */
+}
+.form input{
+	display:block;
+	margin-top: 9px;
+	border: 1px solid #333333;
+	width: 300px;
+	padding: 17px;
+	font-size: 20px;
+}
+.btn{
+	margin-top: 9px;
+	width: 300px;
+	padding: 17px;
+	text-align: center;
+	font-size: 20px;
+	color: #fff;
+	background-color:#2727d9;
+	border: none;
+
+}
+h2{
+	margin-top: 100px;
+	text-align: center;
+	font-weight: 900;
+	text-transform: uppercase;
+	display: block;
+	margin-bottom: 50px;
+}
+.col{
+	display:inline-block;
+	text-align: center;
+	margin: 80px 40px;
+}
+h3{
+	margin-top: 200px;
+	text-align: center;
+	font-weight: 900;
+	text-transform: uppercase;
+	display: block;
+	margin-bottom: 40px;
+}
+.foto{
+	display:inline-block;
+	margin: 30px 30px;
+
+}
