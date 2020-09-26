@@ -12,3 +12,5 @@
 [Урок 7](https://vikockaego.github.io/Lesson12/ " Сайт")- Верстка первого макета
 
 [Урок 8](https://vikockaego.github.io/project5/index.htm " Ускорение верстки в разы")- Ускорение верстки в разы
+
+[Практика 1](https://vikockaego.github.io/project6/ " Шапка сайта")- шапка сайта 
