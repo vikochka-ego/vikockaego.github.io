@@ -1,0 +1,53 @@
+/*Базовые цвета*/
+/*ораньжевый*/
+/*зеленый*/
+/*цвет текста*/
+/*красный*/
+/*фон*/
+/*белый*/
+/*Базовые настройки*/
+html {
+  font-size: 10px;
+}
+.button {
+  background-color: #fab102;
+  color: #fcfcfc;
+  padding: 1rem 3rem;
+  /*отступы*/
+  border-radius: 8px;
+  /*закругления кнопки*/
+  text-transform: uppercase;
+  border: none;
+}
+/*Заголовки*/
+section {
+  padding: 10rem 0;
+  /*отступы*/
+}
+/*главный экран*/
+main {
+  padding: 3rem 0;
+  /*отступ сверху*/
+}
+main .header {
+  height: 7rem;
+}
+main .wrap {
+  /*автаматическое выравнивание по центру*/
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+main .wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+}
+main .phone-link {
+  display: inline-block;
+  color: #1a1820;
+  font-weight: 800;
+  /*жирность шрифта*/
+  font-size: 1.6rem;
+  height: 7rem;
+  line-height: 7rem;
+}
