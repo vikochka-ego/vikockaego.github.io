@@ -14,3 +14,5 @@
 [Урок 8](https://vikockaego.github.io/project5/index.htm " Ускорение верстки в разы")- Ускорение верстки в разы
 
 [Практика 1](https://vikockaego.github.io/project6/ " Шапка сайта")- шапка сайта 
+
+[Шрифты](https://vikockaego.github.io/14/ " шрифты")- шрифты 
