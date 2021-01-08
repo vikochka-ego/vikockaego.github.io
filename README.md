@@ -18,3 +18,4 @@
 [Шрифты](https://vikockaego.github.io/14/ " шрифты")- шрифты 
 
 [Практика Урок 5](https://vikockaego.github.io/project6/ " Главный экран")- Главный экран 
+[Практика Урок 5.4](https://vikockaego.github.io/project5/ "Слайдер")- Слайдер 
