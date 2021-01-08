@@ -16,3 +16,5 @@
 [Практика 1](https://vikockaego.github.io/project6/ " Шапка сайта")- шапка сайта 
 
 [Шрифты](https://vikockaego.github.io/14/ " шрифты")- шрифты 
+
+[Практика Урок 5](https://vikockaego.github.io/14/ " Главный экран")- Главный экран 
