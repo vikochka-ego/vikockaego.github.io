@@ -20,3 +20,5 @@
 [Практика Урок 5](https://vikockaego.github.io/project6/ " Главный экран")- Главный экран 
 
 [Практика Урок 5.4](https://vikockaego.github.io/project5/ "Слайдер")- Слайдер 
+
+[Практика Урок 17](https://vikockaego.github.io/project17/ "Модальные окна")- Модальные окна
