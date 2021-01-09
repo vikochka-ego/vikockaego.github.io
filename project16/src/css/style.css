@@ -1,0 +1,15 @@
+.btn1{
+	background-color:#f76e84; 
+	color:#fefefe;
+	border:none;
+}
+
+.btn2{
+	background-color:#a2d14b; 
+	color:#fefefe;
+	border:none;
+}
+.modal-body{
+	text-transform: uppercase;
+	font-size: 1rem;
+}
