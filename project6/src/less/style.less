@@ -52,7 +52,7 @@ body{
 a:hover{
 text-decoration: none;
 }
-button,input,a{
+button,input,a,textarea{
   &:focus{
    outline:none; 
   }
@@ -143,6 +143,7 @@ display: block;
 margin: 2rem 0;
 width:100%;
 border:1px solid @border-input;
+border-radius: 5px;
 padding: 1.5rem;
 }
 /*Подписи к полям*/
@@ -197,7 +198,113 @@ small{
       color:@text;
     }
     }
-    
+    /*оформление секции с приемуществами*/
+    .features{
+      &-block{
+        text-align: center;
+        h3{
+         font-size: 2rem;
+         .bold(); 
+         margin-bottom: 3rem;
+        }
+        p{
+          display: inline-block;
+          width: 80%;
+          font-size: 1.4rem;
+        }
+      }
+     &-img {
+      height: 8rem;
+      margin-bottom:3rem ;
+      img{
+          display:block;
+         margin: 0 auto;
+      }
+      }
+    }
+    .slick-active{
+      outline:none;
+    }
+    .arrow{
+      top:50%;
+      transform:translateY(-50%);
+      position: absolute;
+      z-index:99;
+      width: 2rem;
+      height:2rem;
+      border:none;
+      background-size:70%;
+      
+    }
+    .prev{
+      background:url(../img/features/Forma2.svg) center no-repeat;
+    left:0;
+    background-size:70%;
+    }
+    .next{
+      right:0;
+       background:url(../img/features/1.svg) center no-repeat;
+       background-size:70%;
+    }
+
+    /*оформление всплывающих окон*/
+    .popup{
+      display: none;
+      position: fixed;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 9;
+      background-color:rgba(0, 0, 0, 0.5);
+
+      
+      &-form{
+        margin-top: 3rem;
+        padding: 0;
+      }
+      &-close{
+       position:absolute; 
+       top:-1.5rem;
+       right: -2rem;
+       width: 2rem;
+       text-align: center;
+       border:none;
+       background-color:transparent;
+       font-size: 3rem;
+       color: @light;
+      }
+      &-content{
+        text-align: center;
+        position: fixed;
+        left: 50%;
+      top: 10%;
+      background-color: @light;
+      transform:translateX(-50%);
+      padding: 4rem 6rem;
+
+      }
+      &-header{
+        .bold();
+      }
+    }
+
+
+
+    .section-header{
+      margin: 2rem 0 10rem;
+      .bold();
+      text-align: center;
+      font-size:3.6rem;
+
+    }
+
+
+
+
+
     @media (max-width: 991px) {
       .main{
         background-position: top right;
