@@ -22,3 +22,5 @@
 [Практика Урок 5.4](https://vikockaego.github.io/project5/ "Слайдер")- Слайдер 
 
 [Практика Урок 17](https://vikockaego.github.io/project17/ "Модальные окна")- Модальные окна
+
+[Практика 5.5](https://vikockaego.github.io/project6/ " Всплывающие окна")- Всплывающие окна 
