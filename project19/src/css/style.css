@@ -1,0 +1,49 @@
+.box {
+display: inline-block;
+margin-top: 100px;
+width: 100px;
+height: 100px;
+background-color: red;
+animation-iteration-count: infinite;
+}
+
+/*Ключевые кадры анимации*/
+/*@keyframes bg-color { /*Так мы обозначаем онимацию и её название*/
+  /*Первый кадр анимации*/
+/*from{
+  background-color:red; /*путь анимации,его можно обозначать с 0%до100%
+*/
+
+/*Конечный кадр анимации*/
+/*to{
+  background-color:blue;
+}
+}
+
+/*Ключевые кадры анимации*/
+/*@keyframes move {
+  /*Первый кадр анимации*/
+/*from{
+  margin-left: 0;
+
+}
+/*Промежуточные кадры анимации*/
+/*10%{
+  margin-left:20px;
+}
+/*Конечный кадр анимации*/
+/*to{
+  margin-left:400px;
+}
+}
+/*.box{
+margin-top: 100px;
+width: 100px;
+height: 100px;
+background-color: red;
+animation-name: move,bg-color; /*Название анимации*/
+/*animation-duration: 1s; /*Количество секунд*/
+/*animation-timing-function: cubic-bezier(.93,.3,.27,1.49);/*Движение анимации */
+/*animation-delay:2s; /*Задержка анимации*/
+/*animation-direction: reverse;/*Обратный порядок анимации*/
+/*animation-iteration-count:3;/*Анимация повторяется бесонечно, можно выставить кол-во раз infinite*} */
