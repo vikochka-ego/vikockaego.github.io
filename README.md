@@ -26,3 +26,5 @@
 [Практика 5.5](https://vikockaego.github.io/project6/ " Всплывающие окна")- Всплывающие окна 
 
 [Урок 19 ](https://vikockaego.github.io/project19/ " Анимации")- Анимации
+
+[Модуль 5. Практика. Часть 6. ](https://vikockaego.github.io/project6/ " Верстка блока с ценами")- Верстка блока с ценами
