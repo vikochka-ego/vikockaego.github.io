@@ -24,3 +24,5 @@
 [Практика Урок 17](https://vikockaego.github.io/project17/ "Модальные окна")- Модальные окна
 
 [Практика 5.5](https://vikockaego.github.io/project6/ " Всплывающие окна")- Всплывающие окна 
+
+[Урок 19 ](https://vikockaego.github.io/project19/ " Анимации")- Анимации
