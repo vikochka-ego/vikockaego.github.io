@@ -33,3 +33,5 @@
 
 [Урок 6.8 ](https://vikockaego.github.io/project6.8/ "Блок отзывы")- Блок отзывы
 
+[Урок 20 ](https://vikockaego.github.io/project20/ "Настройка видео")- Настройка видео
+
