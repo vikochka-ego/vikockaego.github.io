@@ -29,7 +29,7 @@
 
 [Модуль 5. Практика. Часть 6. ](https://vikockaego.github.io/project6/ " Верстка блока с ценами")- Верстка блока с ценами
 
-[Модуль 6. Практика. Часть 7. ](https://vikockaego.github.io/project6.7/" Верстка блока с ценами")- Верстка блока с ценами
+[Урок 6.7 ](https://vikockaego.github.io/project6.7/ "Блок цены")- Блок цены
 
 [Урок 6.8 ](https://vikockaego.github.io/project6.8/ "Блок отзывы")- Блок отзывы
 
